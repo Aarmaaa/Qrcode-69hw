@@ -71,6 +71,7 @@ export default class BookTransactionScreen extends React.Component {
 
 }
 
+//styles
 const styles=StyleSheet.create({
 
     buttonText:{ 
